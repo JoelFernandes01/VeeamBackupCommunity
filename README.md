@@ -3,7 +3,7 @@
 ## Descrição da Atividade:
 
 Nesta atividade prática devemos, instalar e configurar e uma infraestrutura completa da versão gratuita do Veeanm Backup & Replication.
-## NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao download e documentações.
+NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao download e documentações.
 ## Descrição do Cenário:
 
 -   **Windows (Server)**: Para hospedar a solução.
