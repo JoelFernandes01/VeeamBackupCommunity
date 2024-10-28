@@ -18,12 +18,12 @@ NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao downloa
     - Criar os usuários de acesso .
 
 3. **Jobs de Backups**:
-    - JOB de backup `FileServer`.
-    - JOB de backup `banco de dados`.
+    - JOB de backup File Server.
+    - JOB de backup banco de dados.
 
 4. **Jobs de Restores**:
-    - JOB de backup `FileServer`.
-    - JOB de backup `banco de dados`.
+    - JOB de backup File Server .
+    - JOB de backup banco de dados .
 
 ## Referências Principais:
 ![Veeam Login]()
