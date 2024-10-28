@@ -27,8 +27,11 @@ Nesta atividade prática devemos, instalar e configurar e uma infraestrutura com
 
 ## Referências Principais:
 
-![Veeam Backup & Replication] https://helpcenter.veeam.com/docs/backup/qsg_vsphere/about_vbr.html?ver=120
+![Veeam Backup & Replication]()
+<br>https://helpcenter.veeam.com/docs/backup/qsg_vsphere/about_vbr.html?ver=120</br>
 
-![Veeam Agent for Microsoft Windows](https://helpcenter.veeam.com/docs/agentforwindows/userguide/installation_process.html?ver=60)
+![Veeam Agent for Microsoft Windows]()
+<br>https://helpcenter.veeam.com/docs/agentforwindows/userguide/installation_process.html?ver=60</br>
 
-![Veeam Agent for Linux](https://helpcenter.veeam.com/docs/agentforlinux/userguide/installation_val.html?ver=60)
+![Veeam Agent for Linux]()
+<br>https://helpcenter.veeam.com/docs/agentforlinux/userguide/installation_val.html?ver=60</br>
