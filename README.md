@@ -26,6 +26,9 @@ NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao downloa
     - JOB de backup `banco de dados`.
 
 ## Referências Principais:
+![Veeam Login]()
+<br>https://www.veeam.com/signin.html?client_id=aem</br>
+
 ![Veeam Backup & Replication]()
 <br>https://helpcenter.veeam.com/docs/backup/qsg_vsphere/about_vbr.html?ver=120</br>
 
