@@ -1,7 +1,10 @@
-﻿# Projeto Veeam Backup
+﻿# Projeto Veeam Backup & Replication Community Edition
 <img style="width:400px" src="./images/capa.webp">
 ![Veeam Backup & Replication](./images/capa.webp)
 
+# Descrição da Atividade:
+
+Nesta atividade prática devemos, instalar e configurar e uma infraestrutura completa da versão gratuita do Veeanm Backup & Replication.
 Um pequeno tutorial sobre essa ótima solução.
 
 ## Índice
