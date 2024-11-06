@@ -1,5 +1,7 @@
 ﻿# Projeto Veeam Backup
+<img style="width:400px" src="./images/capa.webp">
 ![Veeam Backup & Replication](./images/capa.webp)
+
 Um pequeno tutorial sobre essa ótima solução.
 
 ## Índice
