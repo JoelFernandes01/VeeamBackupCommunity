@@ -7,9 +7,9 @@ Nesta atividade prática devemos, instalar e configurar e uma infraestrutura com
 Um pequeno tutorial sobre essa ótima solução.
 
 ## Índice
-- <a href="#preparacao"> Preparação do ambiente
-- <a href="usuarios"> Usuários de Serviço
-- <a href="particao"> Preparando o repositório
+- [x] <a href="#preparacao"> Preparação do ambiente
+- [x] <a href="usuarios"> Usuários de Serviço
+- [x] <a href="particao"> Preparando o repositório
 
 <<<<<<< HEAD
 ## Outras opções
