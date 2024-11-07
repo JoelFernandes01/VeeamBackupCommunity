@@ -28,19 +28,20 @@ NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao downloa
 -   **Windows (Server)**: Servidor de arquivos da empresa .
 
 ## Tarefas:
-
-1. ### Instalar e configurar a solução : Iremos baixar, instalar e configurar a solução Veeam Backup & Replication em um servidor Windows 2016.
+1. ### Usuários de Serviços:
+    - [x] [Criar os usuários de acesso] .
+2. ### Instalar e configurar a solução : Iremos baixar, instalar e configurar a solução Veeam Backup & Replication em um servidor Windows 2016.
     - [x] [Instalando o Veeam Backup & Replication]
-2. ### Usuários de Serviços:
-    - **Criar os usuários de acesso** .
-
-3. **Jobs de Backups**:
-    - JOB de backup File Server.
-    - JOB de backup banco de dados.
-
+    - [x] [Preparar o repositório]
+    - [x] [Personalizar o dashboard] 
+3. **Criando Jobs de Backups**:
+    - [x] [JOB de backup File Server]
+    - [x] [JOB de backup banco de dados]
+    - [x] [Fazendo testes de sinistros]
 4. **Jobs de Restores**:
-    - JOB de backup File Server .
-    - JOB de backup banco de dados .
+    - [x] [JOB de backup File Server]
+    - [x] [JOB de backup banco de dados]
+    - [x] [Realizando restores]
 
 ## Referências Principais:
 ![Veeam Login]()
