@@ -8,7 +8,7 @@ Um pequeno tutorial sobre essa ótima solução.
 
 ## Índice
 
-- [x] [Preparação do Ambiente](#preparação-do-ambiente)
+- [x] [Preparação do Ambiente](#preprando-o-ambiente)
 - [x] [Usuários de Serviço](#usuários-de-serviços)
 - [x] <a href="#particao"> Preparando o repositório
 
