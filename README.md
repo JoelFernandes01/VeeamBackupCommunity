@@ -7,18 +7,18 @@ Nesta atividade prática devemos, instalar e configurar e uma infraestrutura com
 Um pequeno tutorial sobre essa ótima solução.
 
 ## Índice
-- [x] <a href="#preparacao"> Preparação do ambiente
-- [x] <a href="usuarios"> Usuários de Serviço
-- [x] <a href="particao"> Preparando o repositório
 
-<<<<<<< HEAD
-## Outras opções
-- [x] Bla bla bla
-- [x] Ble ble ble
+- [x] [Preparação do Ambiente](#preparação-do-ambiente)
+- [x] [Usuários de Serviço](#usuários-de-serviços)
+- [x] <a href="#particao"> Preparando o repositório
+
+
+## Preparando o repositório
 
 <img style="width:300px" src="./images/capa.webp" alt="Uma ótima solução de backup para pequenas empresas">
 
 =======
+### Preprando o ambiente
 Nesta atividade prática devemos, instalar e configurar e uma infraestrutura completa da versão gratuita do Veeanm Backup & Replication.
 NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao download e documentações.
 ## Descrição do Cenário:
@@ -31,8 +31,8 @@ NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao downloa
 
 1. **Instalar e configurar a solução** : Iremos baixar, instalar e configurar a solução Veeam Backup & Replication em um servidor Windows 2016.
 
-2. **Usuários de Serviços**:
-    - Criar os usuários de acesso .
+2. ### Usuários de Serviços:
+    - **Criar os usuários de acesso** .
 
 3. **Jobs de Backups**:
     - JOB de backup File Server.
