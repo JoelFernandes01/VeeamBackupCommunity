@@ -18,7 +18,7 @@ Um pequeno tutorial sobre essa ótima solução.
 <img style="width:300px" src="./images/capa.webp" alt="Uma ótima solução de backup para pequenas empresas">
 
 =======
-### **Preprando o ambiente**
+### Preprando o ambiente
 Nesta atividade prática devemos, instalar e configurar e uma infraestrutura completa da versão gratuita do Veeanm Backup & Replication.
 NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao download e documentações.
 ## Descrição do Cenário:
