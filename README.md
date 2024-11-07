@@ -30,7 +30,7 @@ NOTA: É necessário criar uma conta no site da Veeam para ter acesso ao downloa
 ## Tarefas:
 
 1. ### Instalar e configurar a solução : Iremos baixar, instalar e configurar a solução Veeam Backup & Replication em um servidor Windows 2016.
-    - [Instalando o Veeam Backup & Replication]
+    - [x] [Instalando o Veeam Backup & Replication]
 2. ### Usuários de Serviços:
     - **Criar os usuários de acesso** .
 
